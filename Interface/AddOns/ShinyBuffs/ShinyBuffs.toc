@@ -1,0 +1,17 @@
+## Interface: 50001
+## Title: ShinyBuffs
+## Author: Seerah
+## Notes: Skin and move your buffs/debuffs!
+## Version: 1.0.2
+## OptionalDeps: Ace3, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets
+## SavedVariables: ShinyBuffsDB
+## SavedVariablesPerCharacter: ShinyBuffsPCDB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\LibSharedMedia-3.0\lib.xml
+Libs\AceGUI-3.0-SharedMediaWidgets\widget.xml
+
+ShinyBuffs.lua

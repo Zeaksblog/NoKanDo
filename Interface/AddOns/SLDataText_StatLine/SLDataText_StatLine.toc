@@ -1,0 +1,10 @@
+## Interface: 50001
+## Title: SLDataText_StatLine
+## Author: Taffu
+## Notes: Plug-in to display real-time character stats.
+## Version: 1.0.2
+## RequiredDeps: SLDataText
+
+Localization\enUS.lua
+
+SLDataText_StatLine.lua

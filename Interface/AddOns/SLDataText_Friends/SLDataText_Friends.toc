@@ -1,0 +1,13 @@
+## Interface: 50001
+## Title: SLDataText_Friends
+## Author: Taffu
+## Notes: Friend List Plugin for SLDataText.
+## Version: 1.0.5
+## RequiredDeps: SLDataText
+
+Localization\enUS.lua
+Localization\frFR.lua
+Localization\deDE.lua
+Localization\zhTW.lua
+
+SLDataText_Friends.lua

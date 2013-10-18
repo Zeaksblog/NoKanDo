@@ -1,0 +1,23 @@
+## Interface: 30100
+## X-Curse-Packaged-Version: 3.1.0.15-Release
+## X-Curse-Project-Name: Ampere
+## X-Curse-Project-ID: ampere
+## X-Curse-Repository-ID: wow/ampere/mainline
+
+## Title: Ampere
+## Notes: Addon management panel extreme release edition
+## Author: Tekkub Stoutwrithe
+## Version: 3.1.0.15
+## X-Website: http://www.tekkub.net/
+## X-Email: tekkub-wow@googlegroups.com
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+LibStub.lua
+tekKonfigScroll.lua
+tekKonfigAboutPanel.lua
+CallbackHandler-1.0.lua
+LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+Ampere.lua

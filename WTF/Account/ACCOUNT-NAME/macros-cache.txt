@@ -1,0 +1,61 @@
+VER 3 0000000000000024 "enhance" "ABILITY_MOUNT_ROCKETMOUNT2"
+/abs restore enhance
+/cast X-53 Touring Rocket
+END
+VER 3 0000000000000025 "Focus" "INV_Misc_Toy_09"
+/focus
+END
+VER 3 0000000000000026 "frost shock" "INV_MISC_QUESTIONMARK"
+#showtooltip Frost Shock
+/stopcasting
+/cast Wind Shear
+/cast Frost Shock
+END
+VER 3 0000000000000027 "helm" "INV_MISC_QUESTIONMARK"
+/run ShowHelm(not ShowingHelm()) 
+END
+VER 3 0000000000000028 "Hex" "INV_MISC_QUESTIONMARK"
+# Showtooltip Hex
+/ Cast [button: 1] Hex
+/ Cast [button: 2] Bind Elemental
+END
+VER 3 0000000000000029 "pet attack" "INV_MISC_QUESTIONMARK"
+#showtooltip pet attack
+/petfollow [@pettarget,exists]
+/petattack [@pettarget,noexists]
+END
+VER 3 000000000000002A "roar" "ABILITY_DRUID_TIGERSROAR"
+/roar
+/flop
+END
+VER 3 000000000000002F "rwet" "INV_MISC_QUESTIONMARK"
+/target vit
+END
+VER 3 000000000000002E "sit" "ACHIEVEMENT_GUILDPERK_BARTERING"
+/sit
+END
+VER 3 000000000000002B "Target" "SPELL_MISC_PETHEAL"
+/tar [nodead] Zandalari Warscout
+/tar jjjZandalari Warbringer
+/tar Haywire Sunreaver Construct
+/tar Mumta
+/tar Ku'lai
+/tar Progenitus
+/tar Goda
+/tar God-Hulk Ramuk
+/tar Al'tabim the All-Seeing
+/tar Backbreaker Uru
+/tar Lu-Ban
+/tar Moltho
+END
+VER 3 000000000000002C "wind sheer" "INV_MISC_QUESTIONMARK"
+#showtooltip Earth Shock
+/stopcasting
+/cast Wind Shear
+/cast Earth Shock
+END
+VER 3 000000000000002D "Windfury Weapon" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence reset=5 Windfury Weapon, Flametongue Weapon;
+/castsequence reset=5 16, 17;
+END

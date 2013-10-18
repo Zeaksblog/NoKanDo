@@ -1,0 +1,56 @@
+tag v2.6
+36aad25d5c20e42dd97d8fb2c9e46812f2647346
+Ethan Centaurai <ethancentaurai@outlook.com>
+2013-09-15 10:19:23 +0100
+
+Tagging as v2.6.
+
+
+--------------------
+
+Ethan Centaurai:
+	- Core: Increase the size of the config window.
+	- Appearance: Remove useless CVar check.
+	- Appearance: Add options to show/hide quest tracker Objectives header and collapse button.
+	- Appearance: Small re-arrange.
+	- Core: Bump Interface number for Patch 5.4.
+	- TrackingDots: Update blip maps to Patch 5.4 layout.
+	- Core: Revert all recent changes related to MoveAnything compatibility.
+	- Core: Add MoveAnything to optional dependency list to force it to load before Chinchilla does.
+	- MoveButtons: Forcibly disable the module if MoveAnything is installed.
+	- Position: Forcibly disable the module if MoveAnything is installed.
+	- Core: Hide module options instead of disabling them when the module is disabled.
+	- Position: Fixed nesting and removed trailing whitespace.
+	- Position: Disable boss frame movement pending code re-write.
+	- QuestTracker: Module deleted.
+	- Core: Force the height of the quest tracker to 700 pixels.
+	- Update Interface number for Patch 5.3.
+	- Core: Remove SetCVar hook.
+	- Core: Remove unnecessary CVar check.
+	- Appearance: Delay CVar check.
+	- Compass: Replace SetCVar hook with a CVAR_UPDATE event listener.
+	- Compass: Make Blizzard's compass ring invisible instead of hiding it.
+	- Appearance: Kill off more dead code.
+	- Appearance: Removed a huge amount of utterly useless code.
+	- Core: Properly unhook all hooks when Chinchilla is disabled.
+	- Core: Make the Rotate Minimap checkbox code more awesome.
+	- Core: Make the options window slightly smaller.
+	- Core: Rename a function.
+	- Core: Remove Chinchilla's options from the in-game interface options panel.
+	- ShowHide: Experimental new logic that turns buttons invisible instead of hiding them.
+	- Appearance: Prevent an error caused by out-of-date versions of LibDBIcon-1.0.
+	- Appearance: Fix a typo that was causing an error.
+	- Appearance: Register for the new LibDBIcon_IconCreated callback.
+	- ShowHide: Small re-arrange.
+	- QuestTracker: Now enabled by default.
+	- Appearance: Remove debug.
+	- Appearance: Button border alpha settings now work with buttons created by LibDBIcon-1.0.
+	- Appearance: Fix error message format strings.
+	- Appearance: Remove AceTimer-3.0.
+	- Appearance: Check for new buttons on ADDON_LOADED events instead of every second.
+	- Appearance: Set the default minimap strata to LOW.
+	This matches Blizzard's default minimap strata settings.
+	- Appearance: Simplify the strata options to low, medium and high.
+	- Appearance: Remove debug.
+	- Appearance: Fix button border alpha feature.
+	Why this was not throwing up errors is beyond me.

@@ -1,0 +1,34 @@
+2.1.9
+[QUOTE][B]GameMenuFrame[/B]
+[COLOR="DeepSkyBlue"]
+[LIST]
+[*]Fixed background size.
+[/list]
+[/COLOR][B]ItemTextFrame[/B]
+[COLOR="DeepSkyBlue"]
+[LIST]
+[*]Removed Stone parchement.
+[/list]
+[/COLOR][B]StaticPopup[/B]
+[COLOR="DeepSkyBlue"]
+[LIST]
+[*]Fixed background size.
+[/list]
+[/COLOR][B]WatchFrame[/B]
+[COLOR="DeepSkyBlue"]
+[LIST]
+[*]UI-WorldMap-QuestIcon changed to better fit the overall layout.
+[*]UI-QuestPoi-NumberIcons changed to better fit the oerall layout.
+[/LIST]
+[/COLOR][B]TalentFrame[/B]
+[COLOR="DeepSkyBlue"]
+[LIST]
+[*]Removed inner border around selected talent in the talentframe.
+[/list]
+[/COLOR][B]WorldMap[/B]
+[COLOR="DeepSkyBlue"]
+[LIST]
+[*]Worlmap size corrected.
+[/list]
+[/COLOR]
+[/quote]

@@ -1,0 +1,20 @@
+
+PhanxChatDB = {
+	["FontSize"] = 14,
+	["ReplaceRealNames"] = false,
+	["HideRepeats"] = true,
+	["EnableResizeEdges"] = true,
+	["HideButtons"] = true,
+	["RemoveRealmNames"] = true,
+	["FadeTime"] = 1,
+	["MoveEditBox"] = true,
+	["EnableArrows"] = true,
+	["LinkURLs"] = true,
+	["ShortenRealNames"] = "FIRSTNAME",
+	["HideNotices"] = false,
+	["EnableSticky"] = "ALL",
+	["HideFlash"] = false,
+	["ShortenChannelNames"] = false,
+	["HideTextures"] = true,
+	["LockTabs"] = true,
+}

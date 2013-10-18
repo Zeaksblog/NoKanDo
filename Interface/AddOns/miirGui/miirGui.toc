@@ -1,0 +1,11 @@
+## Interface: 50300
+## Title: miir|cff44CCFFGui|r - Cosmectic Fixes
+## Version: 2.1.9
+## Notes: Blizzard Interface Fixes for usage with miirGui graphics
+## Author: Miiru-Lordaeron
+miirgui.lua
+minimap.lua
+portrait.lua
+core.lua
+on_load.lua
+fonts.lua

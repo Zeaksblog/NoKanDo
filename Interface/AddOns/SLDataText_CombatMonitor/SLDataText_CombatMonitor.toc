@@ -1,0 +1,11 @@
+## Interface: 40300
+## Title: SLDataText_CombatMonitor
+## Author: Taffu
+## Notes: Personal DPS & HPS Monitor Plugin for SLDataText.
+## Version: 1.0.1
+## RequiredDeps: SLDataText
+
+Libs\Libstub\Libstub.lua
+Libs\LibSLTip-1.0\LibSLTip-1.0.lua
+
+SLDataText_CombatMonitor.lua

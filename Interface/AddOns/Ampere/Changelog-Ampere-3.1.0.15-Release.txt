@@ -1,0 +1,19 @@
+tag 3.1.0.15-Release
+670b9168ba3c2a95a52a4930bf23a67d2a1b605f
+Tekkub <tekkub@gmail.com>
+2009-06-13 15:22:22 -0600
+
+Weekly build
+
+
+--------------------
+
+Tekkub:
+	Weekly build 3.1.0.15-Release
+	Update changelog for 3.1.0.15-Release
+	Updating TOC to 30100
+	Updating README
+	Add more info to the tooltip
+	Tweak version color
+	Add fallback color in case blizzy adds new load fail reasons
+	Add version numbers to list
