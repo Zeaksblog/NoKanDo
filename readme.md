@@ -18,4 +18,4 @@ esc > interface > addons > Recount > profiles
 This UI looks best on 1920 x 1080 res.
 
 TellMeWhen is setup for Windwalker Monk only, you'll have to configure it for other classes.
-![Screenshot](https://github.com/Zeaksblog/NoKanDo/blob/master/screenshot.jpg)
+![Screenshot](screenshot.jpg)
